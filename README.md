@@ -8,7 +8,11 @@ Este projeto consiste em uma aplicação console desenvolvida em C# que simula u
 
 ## Integrantes
 
-* Augusto Rocha
+* Augusto Rocha - RM556316
+* Wendell Dos Santos Silva - RM558859
+* Guilherme Vieira - RM557264
+* Erik Yuuta Goto - RM558076
+
 
 <!-- Adicione outros nomes aqui, se necessário -->
 
