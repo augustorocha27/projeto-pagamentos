@@ -1,0 +1,14 @@
+C:\Users\augus\ProjetoPagamento\obj\Debug\net10.0\ProjetoPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\ProjetoPagamento\obj\Debug\net10.0\ProjetoPagamento.AssemblyInfoInputs.cache
+C:\Users\augus\ProjetoPagamento\obj\Debug\net10.0\ProjetoPagamento.AssemblyInfo.cs
+C:\Users\augus\ProjetoPagamento\obj\Debug\net10.0\ProjetoPagamento.csproj.CoreCompileInputs.cache
+C:\Users\augus\ProjetoPagamento\bin\Debug\net10.0\ProjetoPagamento.exe
+C:\Users\augus\ProjetoPagamento\bin\Debug\net10.0\ProjetoPagamento.deps.json
+C:\Users\augus\ProjetoPagamento\bin\Debug\net10.0\ProjetoPagamento.runtimeconfig.json
+C:\Users\augus\ProjetoPagamento\bin\Debug\net10.0\ProjetoPagamento.dll
+C:\Users\augus\ProjetoPagamento\bin\Debug\net10.0\ProjetoPagamento.pdb
+C:\Users\augus\ProjetoPagamento\obj\Debug\net10.0\ProjetoPagamento.dll
+C:\Users\augus\ProjetoPagamento\obj\Debug\net10.0\refint\ProjetoPagamento.dll
+C:\Users\augus\ProjetoPagamento\obj\Debug\net10.0\ProjetoPagamento.pdb
+C:\Users\augus\ProjetoPagamento\obj\Debug\net10.0\ProjetoPagamento.genruntimeconfig.cache
+C:\Users\augus\ProjetoPagamento\obj\Debug\net10.0\ref\ProjetoPagamento.dll
